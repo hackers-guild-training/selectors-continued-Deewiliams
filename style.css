@@ -1,0 +1,30 @@
+.item {
+    font-size :18px;
+    font-weight: 500;
+}
+.ul > li{
+    display: inline;
+}
+
+p:first-child {
+    font-style: italic;
+}
+p.blue {
+    color: blue;
+}
+p.green {
+    color: green;
+}
+p.B{
+    background-color: yellow;
+}
+p.bold{
+    background-color: rgb(99, 78, 78);
+  
+ }
+p.border{
+    font-weight: bold;
+}
+a.visted{
+    color: green;
+}
